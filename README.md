@@ -18,7 +18,7 @@ A Sublime Text 3 color scheme.
 
 ## Installation
 
-Installation is simply a matter of getting the `Yellowhammer.tmTheme` file and placing it into your `Packages` directory (which you can find by choosing `Preferences > Browse Packages...` from the top menu within Sublime Text 3).
+Installation is simply a matter of getting the `Yellowhammer.tmTheme` file from this repository into your `Packages` directory (which you can find by choosing `Preferences > Browse Packages...` from the top menu within Sublime Text 3).
 
 To do this, you can choose any of the following options:
 
