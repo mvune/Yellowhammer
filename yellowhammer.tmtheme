@@ -124,7 +124,7 @@
             <key>name</key>
             <string>Variable</string>
             <key>scope</key>
-            <string>variable, punctuation.definition.variable, support.other.variable, support.class.js, meta.property.object, meta.object-literal.key.js</string>
+            <string>variable, punctuation.definition.variable, support.variable, support.other.variable, support.class.js, meta.property.object, meta.object-literal.key.js</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
@@ -247,7 +247,7 @@
             <key>name</key>
             <string>Punctuation</string>
             <key>scope</key>
-            <string>punctuation - punctuation.definition.comment - string.regexp, keyword.other.accessor, meta.delimiter, meta.object-literal.js, meta.array.php</string>
+            <string>punctuation - punctuation.definition.comment - string.regexp, keyword.other.accessor, meta.delimiter, meta.brace, meta.object-literal.js, meta.array.php</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
