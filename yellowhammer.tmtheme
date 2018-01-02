@@ -58,7 +58,7 @@
             <key>name</key>
             <string>String</string>
             <key>scope</key>
-            <string>string</string>
+            <string>string, source.php.blade</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
